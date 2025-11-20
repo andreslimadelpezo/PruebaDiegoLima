@@ -1,4 +1,7 @@
-## repositorio del proyecto
+# Escuela Politécnica Nacional
+
+## Curso:GR2SW
+# repositorio del proyecto
 https://github.com/andreslimadelpezo/PruebaDiegoLima.git
 
 
